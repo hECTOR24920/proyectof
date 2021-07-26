@@ -1,6 +1,6 @@
 <? php
 $ titulo_sitio = "Registro simple de usuarios" ;
-$ author = "Seminario de Titulación 2021 cecytem tx". ;
+$ author = "Proyecto final  2021 cecytem tx". ;
 $ viewport = "width = device-width, initial-scale = 1.0" ;
 $ palabras clave = "registro, registro simple, registro simple de usuarios" ;
 $ descripción = "Registro simple de usuarios con PHP y MySQL" ;
